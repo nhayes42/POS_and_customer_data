@@ -61,8 +61,6 @@ namespace WindowsFormsApplication1
                             customerList.Append(name);
                         }
                     }
-
-
                 }
             }
             return numberOfCustomers;
